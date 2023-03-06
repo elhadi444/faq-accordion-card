@@ -34,6 +34,7 @@ body {
 }
 
 .container {
+    position: relative;
     padding: 9.25rem 1.5rem;
     min-height: 100vh;
 }
